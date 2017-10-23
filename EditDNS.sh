@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "151.101.76.249 hurricane-www.dandythrust.com" >> /etc/hosts
+echo "52.74.60.194 hurricane-www.dandythrust.com" >> /etc/hosts
