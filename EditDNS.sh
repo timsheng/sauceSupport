@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "127.0.0.1 www.google.com" >> /etc/hosts
+echo "52.74.60.194 hurricane-www.dandythrust.com" >> /etc/hosts
